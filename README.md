@@ -1,5 +1,5 @@
 # 錄製電視台的地震速報
-
+可於 Windows 7、Windows 10 上執行。
 ## 所需軟體
 1. 地牛Wake Up! http://eew.earthquake.tw
 * 下載前請先閱讀網頁說明。
@@ -10,6 +10,7 @@
 
 下載並安裝，地牛Wake Up! 需要進一步設定。
 
+（圖）
 ## 準備步驟
 1. 下載 record.ahk，在檔案上按右鍵選擇 Edit Script 可修改內容。
 2. 確定地牛Wake Up! 執行中，視窗為關閉狀態，此時僅有圖示出現於右下角通知區域。
