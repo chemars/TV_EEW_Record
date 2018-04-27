@@ -1,4 +1,6 @@
 # 錄製電視台的地震速報
+**地牛Wake Up!新測試版即將釋出，屆時此程式將大幅修改，以改善現有問題** 
+
 可於 Windows 7、Windows 10 上執行。
 ## 所需軟體
 1. 地牛Wake Up! http://eew.earthquake.tw
