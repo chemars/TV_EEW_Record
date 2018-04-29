@@ -14,7 +14,7 @@ Loop
 ; 請依需求修改
     streamlink("ebc.ts","www.youtube.com/watch?v=RkgHSqdMCCI","720p")
     streamlink("setn.ts","www.youtube.com/watch?v=4ZVUmEUFwaY","720p")
-    streamlink("tvbs.ts","www.youtube.com/watch?v=Hu1FkdAOws0","best")
+    streamlink("tvbs.ts","www.youtube.com/watch?v=Hu1FkdAOws0","720p")
     streamlink("ctv.ts","www.youtube.com/watch?v=0rhn5w9Vhu8","720p")
     streamlink("cti.ts","www.youtube.com/watch?v=wUPPkSANpyo","720p")
     streamlink("daai.ts","www.youtube.com/watch?v=ESKjSwcswBM","720p")
