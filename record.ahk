@@ -15,6 +15,7 @@ Loop, %video_count%
 {
     WinClose, ahk_exe cmd.exe
 }
+Exit
 
 streamlink(filename,url,quality)
 {
