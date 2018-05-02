@@ -1,0 +1,1 @@
+start %UserProfile%\Desktop\record.ahk
