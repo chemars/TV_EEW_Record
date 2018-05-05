@@ -1,1 +1,1 @@
-start %UserProfile%\Desktop\record.ahk
+START %~dp0\record.ahk

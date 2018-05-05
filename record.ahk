@@ -10,7 +10,7 @@ streamlink("tvbs.ts","www.youtube.com/watch?v=Hu1FkdAOws0","720p")
 streamlink("ctv.ts","www.youtube.com/watch?v=0rhn5w9Vhu8","720p")
 streamlink("cti.ts","www.youtube.com/watch?v=wUPPkSANpyo","720p")
 streamlink("daai.ts","www.youtube.com/watch?v=ESKjSwcswBM","720p")
-sleep, 660000
+sleep, 600000
 Loop, %video_count%
 {
     WinClose, ahk_exe cmd.exe
