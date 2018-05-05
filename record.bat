@@ -1,1 +1,1 @@
-START %~dp0\record.ahk
+START %~dp0record.ahk
