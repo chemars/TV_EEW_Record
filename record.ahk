@@ -19,6 +19,6 @@ Exit
 
 streamlink(filename,url,quality)
 {
-    Run, %ComSpec% /k "streamlink -o %A_ScriptDir%\%start_time%_%filename% %url% %quality%" & echo %start_time%_%filename% >> %A_ScriptDir%\error.txt
+    Run, %ComSpec% /k streamlink -o "%A_ScriptDir%\%start_time%_%filename%" %url% %quality% & echo %start_time%_%filename% >> "%A_ScriptDir%\error.txt"
     video_count+=1
 }
