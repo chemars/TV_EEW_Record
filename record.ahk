@@ -4,7 +4,7 @@ video_count := 0
 FormatTime, start_time, %A_Now%, yyyyMMdd_HHmmss
 global start_time
 global video_count
-streamlink("ebc.ts","www.youtube.com/watch?v=QlShL5SPf0w","720p")
+streamlink("ebc.ts","www.youtube.com/watch?v=FTdX1TiFD3c","720p")
 streamlink("setn.ts","www.youtube.com/watch?v=4ZVUmEUFwaY","720p")
 streamlink("tvbs.ts","www.youtube.com/watch?v=Hu1FkdAOws0","720p")
 streamlink("ctv.ts","www.youtube.com/watch?v=qsE1707DN0k","720p")
