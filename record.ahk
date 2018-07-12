@@ -7,7 +7,7 @@ global video_count
 streamlink("ebc.ts","www.youtube.com/watch?v=T37e7OB00vU","720p")
 streamlink("setn.ts","www.youtube.com/watch?v=4ZVUmEUFwaY","720p")
 streamlink("tvbs.ts","www.youtube.com/watch?v=Hu1FkdAOws0","720p")
-streamlink("ctv.ts","www.youtube.com/watch?v=qsE1707DN0k","720p")
+streamlink("ctv.ts","www.youtube.com/watch?v=05mm3tEzCig","720p")
 streamlink("cti.ts","www.youtube.com/watch?v=wUPPkSANpyo","720p")
 streamlink("daai.ts","www.youtube.com/watch?v=ESKjSwcswBM","720p")
 sleep, 660000
