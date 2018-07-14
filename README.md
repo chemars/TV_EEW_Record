@@ -2,11 +2,11 @@
 針對台灣的電視台，可於 Windows 7、Windows 10 執行。
 
 ## 所需軟體
-1. 地牛Wake Up! http://eew.earthquake.tw
+1. [地牛Wake Up!](http://eew.earthquake.tw)
 * 適用 v2.0.0 以上版本，下載前請先閱讀網頁說明。
-2. AutoHotkey https://autohotkey.com/
+2. [AutoHotkey](https://autohotkey.com/)
 * 下載 https://autohotkey.com/download/
-3. Streamlink https://streamlink.github.io/
+3. [Streamlink](https://streamlink.github.io/)
 * 下載 https://github.com/streamlink/streamlink/releases/latest
 
 下載並安裝。
