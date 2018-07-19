@@ -10,6 +10,6 @@ IF EXIST "%~dp0%filename%" (
     START "" "%~dp0%filename%"
     IF EXIST "%~dp0%old_file%" DEL "%~dp0%old_file%"
  ) ELSE ( 
-    Echo 下載失敗，嘗試使用舊檔案 >> "%~dp0error.txt"
-    IF EXIST "%~dp0%old_file%" START "" "%~dp0%old_file%"
+    IF EXIST "%~dp0%old_file%" START "" "%~dp0%old_file%" & Echo 下載失敗，使用舊程式錄製 >> "%~dp0error.txt"
+    IF NOT EXIST "%~dp0%old_file%" Echo 下載失敗，無舊程式，無法錄製 >> "%~dp0error.txt"
  )
