@@ -16,7 +16,7 @@ Loop, %video_count%
     WinClose, ahk_exe cmd.exe
 }
 if FileExist(A_ScriptDir . "\error.txt")
-    FileAppend, 網址失效，請至 https://github.com/chemars/TV_EEW_Record 下載更新後的錄製程式, %A_ScriptDir%\error.txt
+    FileAppend, 網址失效，若有備用網址，將使用備用網址錄製, %A_ScriptDir%\error.txt
 Exit
 
 streamlink(filename,url,alternate_url,quality)
