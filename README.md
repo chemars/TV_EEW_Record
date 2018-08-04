@@ -9,7 +9,7 @@
 3. [Streamlink](https://streamlink.github.io/)
 * 下載 https://github.com/streamlink/streamlink/releases/latest
 
-下載並安裝。
+下載以上軟體並安裝。
 
 ## 準備步驟
 1. 下載 record_download.bat。
