@@ -21,4 +21,4 @@
 1. 截至2018年2月21日，與中央氣象局合作推播地震速報的電視台有東森、三立、TVBS、中天、中視、大愛。
 2. 電視台訊號來自網路直播，其畫面可能與有線電視有所不同。
 3. [錄製程式舊版本](https://github.com/chemars/TV_EEW_Record/tree/49a81bec1fe3b78127048fcdcdbd475d308f4fad)，適用於地牛Wake Up! 舊版（v1.3.4）。
-4. record_download.bat 會自動下載最新的錄製程式，若不要自動下載，請改使用 record.bat、record.ahk，[方法參考](https://github.com/chemars/TV_EEW_Record/tree/b11718917878239e1df5f0fc1de92dc841de145a)。
+4. record_download.bat 會自動下載最新的錄製程式，若不要自動下載，請改使用 record.bat、record.ahk，[相關說明](https://github.com/chemars/TV_EEW_Record/tree/b11718917878239e1df5f0fc1de92dc841de145a)。
