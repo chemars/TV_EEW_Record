@@ -7,7 +7,7 @@ global video_count
 streamlink("ebc.ts","www.youtube.com/watch?v=u5X_hiHtKkM","www.youtube.com/c/newsebc/live","720p")
 streamlink("setn.ts","www.youtube.com/watch?v=4ZVUmEUFwaY","www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw","720p")
 streamlink("tvbs.ts","www.youtube.com/watch?v=Hu1FkdAOws0","www.youtube.com/watch?v=Hu1FkdAOws0","720p")
-streamlink("ctv.ts","www.youtube.com/watch?v=rgVBe6VGWm4","www.youtube.com/c/twctvnews/live","720p")
+streamlink("ctv.ts","www.youtube.com/watch?v=pJ4I7ngQ7Cg","www.youtube.com/c/twctvnews/live","720p")
 streamlink("cti.ts","www.youtube.com/watch?v=wUPPkSANpyo","www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw","720p")
 streamlink("daai.ts","www.youtube.com/watch?v=ESKjSwcswBM","www.youtube.com/watch?v=ESKjSwcswBM","720p")
 sleep, 660000
