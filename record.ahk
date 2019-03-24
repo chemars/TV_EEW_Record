@@ -23,6 +23,6 @@ Exit
 
 streamlink(filename,url,alternate_url,quality)
 {
-    Run, %ComSpec% /k streamlink -o "%A_ScriptDir%\%start_time%_%filename%" %url% %quality% & TIMEOUT /T 1 /NOBREAK & echo %start_time%_%filename% >> "%A_ScriptDir%\error.txt" & streamlink -o "%A_ScriptDir%\%start_time%_%filename%" %alternate_url% %quality%
+    Run, %ComSpec% /k streamlink -o "%A_ScriptDir%\%start_time%_%filename%" %url% %quality% & TIMEOUT /T 1 /NOBREAK & echo %start_time%_%filename% >> "%A_ScriptDir%\error.txt" & streamlink -o "%A_ScriptDir%\2_%start_time%_%filename%" %alternate_url% %quality%
     video_count+=1
 }
