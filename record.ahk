@@ -11,7 +11,7 @@ streamlink("ctv.ts","www.youtube.com/watch?v=me_mFzhe-cE","www.youtube.com/c/twc
 streamlink("cti.ts","www.youtube.com/watch?v=wUPPkSANpyo","www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw","720p")
 streamlink("daai.ts","www.youtube.com/watch?v=oV_i3Hsl_zg","www.youtube.com/watch?v=oV_i3Hsl_zg","720p")
 streamlink("ftv.ts","www.youtube.com/watch?v=XxJKnDLYZz4","www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA","720p")
-;streamlink("setinews.ts","www.youtube.com/watch?v=fNc3b_f3BFw","www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA","480p")
+;streamlink("setinews.ts","www.youtube.com/watch?v=ag9nrgExHyg","www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA","480p")
 ;streamlink("daai02.ts","www.youtube.com/watch?v=DTNkEm6jaqQ","www.youtube.com/watch?v=DTNkEm6jaqQ","480p")
 sleep, 660000
 Loop, %video_count%
