@@ -4,8 +4,8 @@
 ## 所需軟體
 1. [地牛Wake Up!](https://eew.earthquake.tw)
 * 適用 v2.0.0 以上版本，下載前請先閱讀網頁說明。
-2. [AutoHotkey](https://autohotkey.com/)
-* 下載 https://autohotkey.com/download/
+2. [AutoHotkey](https://www.autohotkey.com/)
+* 下載 https://www.autohotkey.com/download/
 3. [Streamlink](https://streamlink.github.io/)
 * 下載 https://github.com/streamlink/streamlink/releases/latest
 
