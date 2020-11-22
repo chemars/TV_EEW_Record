@@ -7,7 +7,7 @@ global video_count
 streamlink("ebc.ts","www.youtube.com/watch?v=63RmMXCd_bQ","www.youtube.com/c/newsebc/live","720p")
 streamlink("set.ts","www.youtube.com/watch?v=4ZVUmEUFwaY","www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw","720p")
 streamlink("tvbs.ts","www.youtube.com/watch?v=A4FbB8UhNRs","www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ","720p")
-streamlink("ctv.ts","www.youtube.com/watch?v=ptqD4qo9D3I","www.youtube.com/c/twctvnews/live","720p")
+streamlink("ctv.ts","www.youtube.com/watch?v=lSZZ3YRsW1w","www.youtube.com/c/twctvnews/live","720p")
 streamlink("cti.ts","www.youtube.com/watch?v=wUPPkSANpyo","www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw","720p")
 streamlink("daai.ts","www.youtube.com/watch?v=oV_i3Hsl_zg","www.youtube.com/watch?v=oV_i3Hsl_zg","720p")
 streamlink("ftv.ts","www.youtube.com/watch?v=XxJKnDLYZz4","www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA","720p")
