@@ -8,7 +8,7 @@ streamlink("ebc.ts","www.youtube.com/watch?v=R2iMq5LKXco","www.youtube.com/c/new
 streamlink("set.ts","www.youtube.com/watch?v=pJ0VgJloR9E","www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw","720p")
 streamlink("tvbs.ts","www.youtube.com/watch?v=A4FbB8UhNRs","www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ","720p")
 streamlink("ctv.ts","www.youtube.com/watch?v=NHTD_g1LYOM","www.youtube.com/c/twctvnews/live","720p")
-streamlink("cti.ts","www.youtube.com/watch?v=5tQBwbyQ-Fw","www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw","720p")
+streamlink("cti.ts","www.youtube.com/watch?v=lu_BJKxqGnk","www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw","720p")
 streamlink("daai.ts","www.youtube.com/watch?v=oV_i3Hsl_zg","www.youtube.com/watch?v=oV_i3Hsl_zg","720p")
 streamlink("ftv.ts","www.youtube.com/watch?v=XxJKnDLYZz4","www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA","720p")
 streamlink("pts.ts","www.youtube.com/watch?v=ED4QXd5xAco","www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA","720p")
