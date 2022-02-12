@@ -1,5 +1,5 @@
 # 錄製電視台的地震速報
-針對台灣的電視台，可於 Windows 7、Windows 10 執行。
+針對台灣的電視台，可於 Windows 10 執行。
 
 ## 所需軟體
 1. [地牛Wake Up!](https://eew.earthquake.tw)
@@ -18,6 +18,6 @@
 4. 當地牛Wake Up! 收到地震速報跳出視窗時，就會自動下載最新的錄製程式，開始錄製影片，預設11分鐘後結束錄製。
 
 ## 其他
-1. 與中央氣象局合作推播地震速報的電視台有東森、三立、TVBS、中天、中視、大愛、民視、公視、華視。
+1. 與中央氣象局合作推播地震速報的電視台有東森、三立、TVBS、中天、中視、大愛、民視、公視、華視、鏡電視。
 2. 電視台訊號來自網路直播，其畫面可能與有線電視有所不同。
 3. record_download.bat 會自動下載最新的錄製程式，若不要自動下載，請改使用 record.bat、record.ahk，[相關說明](https://github.com/chemars/TV_EEW_Record/blob/b11718917878239e1df5f0fc1de92dc841de145a/README.md)。
