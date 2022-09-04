@@ -6,7 +6,7 @@ global start_time
 global video_count
 ;streamlink("ebc.ts","www.youtube.com/watch?v=f8_QqSg0fWM","www.youtube.com/c/newsebc/live","720p")
 ;streamlink("set.ts","www.youtube.com/watch?v=FoBfXvlOR6I","www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw","720p")
-streamlink("tvbs.ts","www.youtube.com/watch?v=A-gpFYwWFFs","www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ","720p")
+streamlink("tvbs.ts","www.youtube.com/watch?v=oEpfDIm0f4w","www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ","720p")
 streamlink("ctv.ts","www.youtube.com/watch?v=TCnaIE_SAtM","www.youtube.com/c/twctvnews/live","720p")
 streamlink("cti.ts","www.youtube.com/watch?v=_QbRXRnHMVY","www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw","720p")
 streamlink("daai.ts","www.youtube.com/watch?v=oV_i3Hsl_zg","www.youtube.com/watch?v=oV_i3Hsl_zg","720p")
