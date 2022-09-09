@@ -19,6 +19,6 @@
 
 ## 其他
 1. 與中央氣象局合作推播地震速報的電視台有東森、三立、TVBS、中天、中視、大愛、民視、公視、華視、鏡電視。
-2. 因各種限制，並非所有電視台都會錄製。
+2. 因[各種限制](https://www.cna.com.tw/news/ahel/202204010223.aspx)，並非所有電視台都會錄製。
 3. 電視台訊號來自網路直播，其畫面可能與有線電視有所不同。
 4. record_download.bat 會自動下載最新的錄製程式，若不要自動下載，請改使用 record.bat、record.ahk，[相關說明](https://github.com/chemars/TV_EEW_Record/blob/b11718917878239e1df5f0fc1de92dc841de145a/README.md)。
