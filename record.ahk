@@ -10,7 +10,7 @@ global video_count
 streamlink("ctv.ts","www.youtube.com/watch?v=TCnaIE_SAtM","www.youtube.com/c/twctvnews/live","720p")
 streamlink("cti.ts","www.youtube.com/watch?v=_QbRXRnHMVY","www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw","720p")
 streamlink("daai.ts","www.youtube.com/watch?v=oV_i3Hsl_zg","www.youtube.com/watch?v=oV_i3Hsl_zg","720p")
-streamlink("ftv.ts","www.youtube.com/watch?v=P8DRJChuQQQ","www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA","720p")
+streamlink("ftv.ts","www.youtube.com/watch?v=ylYJSBUgaMA","www.youtube.com/c/FTVCP","720p")
 streamlink("pts.ts","www.youtube.com/watch?v=4Uc00FPs27M","www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA","720p")
 streamlink("cts.ts","www.youtube.com/watch?v=wM0g8EoUZ_E","www.youtube.com/user/TBSCTS","720p")
 streamlink("mnews.ts","www.youtube.com/watch?v=5n0y6b0Q25o","www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw","720p")
