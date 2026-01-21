@@ -8,12 +8,12 @@ global video_count
 ;streamlink("set.ts","www.youtube.com/watch?v=FoBfXvlOR6I","www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw","720p")
 ;streamlink("tvbs.ts","www.youtube.com/watch?v=2mCSYvcfhtc","www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ","720p")
 streamlink("ctv.ts","www.youtube.com/watch?v=TCnaIE_SAtM","www.youtube.com/c/twctvnews/live","720p")
-streamlink("cti.ts","www.youtube.com/watch?v=oIgbl7t0S_w","www.youtube.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw","720p")
+streamlink("cti.ts","www.youtube.com/watch?v=vr3XyVCR4T0","www.youtube.com/watch?v=vr3XyVCR4T0","720p")
 streamlink("daai.ts","www.youtube.com/watch?v=oV_i3Hsl_zg","www.youtube.com/watch?v=oV_i3Hsl_zg","720p")
-streamlink("ftv.ts","www.youtube.com/watch?v=ylYJSBUgaMA","www.youtube.com/c/FTVCP","720p")
-streamlink("pts.ts","www.youtube.com/watch?v=C6gYqSHLRw4","www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA","720p")
-streamlink("cts.ts","www.youtube.com/watch?v=wM0g8EoUZ_E","www.youtube.com/user/TBSCTS","720p")
-streamlink("mnews.ts","www.youtube.com/watch?v=5n0y6b0Q25o","www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw","720p")
+streamlink("ftv.ts","www.youtube.com/watch?v=ylYJSBUgaMA","www.youtube.com/watch?v=ylYJSBUgaMA","720p")
+streamlink("pts.ts","www.youtube.com/watch?v=C6gYqSHLRw4","https://www.youtube.com/ptslivestream/live","720p")
+streamlink("cts.ts","www.youtube.com/watch?v=wM0g8EoUZ_E","www.youtube.com/watch?v=wM0g8EoUZ_E","720p")
+streamlink("mnews.ts","www.youtube.com/watch?v=5n0y6b0Q25o","www.youtube.com/watch?v=5n0y6b0Q25o","720p")
 sleep, 660000
 Loop, %video_count%
 {
